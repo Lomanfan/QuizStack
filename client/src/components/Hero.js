@@ -21,7 +21,7 @@ const Hero = (props) => {
         // transitionDuration="600"
         // transitionTimingFuction="ease-in-out"
       >
-        <h1 style={{ color: "lavender" }}>Lookout 10xer's, we're turning it up to 11.</h1>
+        <h1 style={{ color: "lavender" }}>QuizStack-The ultimate resource to prepare for coding interviews.</h1>
         {/* <Particles style={{width: '500px'}}/> */}
       </LazyHero>
 
