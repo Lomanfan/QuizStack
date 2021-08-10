@@ -12,6 +12,8 @@ At QuizStack, coding enthusiasts can practise their coding skills and interview 
 - In the user account page, user can to keep track of their personal playlists and make notes on their studies;
 - On the result summary page, it calculates the total number of questions that were answered correctly and presents it with a pie chart. The "Questions", "Correct Answers" columns are populated based on users' selection of quizzes, and "Your Results" column put together a record of result status of each question users answered.
 
+![QuizStackUserAccount](https://user-images.githubusercontent.com/77166991/128936590-640bff2c-25ea-4d34-85ee-646f2dd5d4b1.gif)
+
 ## Setup
 
 For this project, we need **TWO** terminals.
