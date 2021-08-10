@@ -80,7 +80,3 @@ Once it's deployed, you can run the following commands to manage your app:
 There are other commands, but these are good to get you started!
 
 To make your app work properly with React Router (if you end up using it) on Heroku, I've added a special route to the `routes.rb` file (`get '*path' ... `).
-
-## Contact
-
-Please contact me at `nima.boscarino@gmail.com` if you have any questions or requests, or post an issue to this repo.
